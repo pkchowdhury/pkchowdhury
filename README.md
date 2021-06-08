@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pkchowdhury
+- 👋 Hi, I’m Pallab Chowdhury
 - 👀 I’m interested in Deep learning, NLP and IoT fields.
 - 🌱 I’m currently learning ML,DL and cloud computing
 - 💞️ I’m looking to collaborate on my projects
