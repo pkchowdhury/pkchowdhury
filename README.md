@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my projects
 - 📫 Reach me on
 - Facebook: https://www.facebook.com/pkchowdhury95/
-- Instgram: https://www.instagram.com/pkchowdhury/
+- Instagram: https://www.instagram.com/pkchowdhury/
 - Twitter: https://twitter.com/_pkchowdhury
 - LinkedIn: https://www.linkedin.com/in/pkchowdhury95/
 
