@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pallab Chowdhury
-- 👀 I’m interested in Deep learning, NLP and IoT fields.
-- 🌱 I’m currently learning ML,DL and cloud computing
+- 👀 I’m interested in Deep learning, NLP, Embedded Systems and IoT fields.
+- 🌱 I’m currently learning ML,DL, Embedded IoT and cloud computing
 - 💞️ I’m looking to collaborate on my projects
 - 📫 Reach me on
 - Facebook: https://www.facebook.com/pkchowdhury95/
