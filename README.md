@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallab Chowdhury</h1>
-<h3 align="center">I am a Full Stack ML & IoT developer with a huge love for Embedded systems, Internet of things, firmware development, Machine Learning, Deep Learning, Computer Vision and NLP. Currently, I'm open to work and research opportunities.</h3>
+<h3 align="center">I am a Full Stack ML & IoT developer with a huge love for Machine Learning, Deep Learning, Computer Vision, NLP, Embedded systems, Internet of things and firmware development. Currently, I'm open to work and research opportunities.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://dreamziot.com/wp-content/uploads/2018/07/ai-iot-home-1b.gif">
 
