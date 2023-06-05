@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_pkchowdhury" target="blank"><img src="https://img.shields.io/twitter/follow/_pkchowdhury?logo=twitter&style=for-the-badge" alt="_pkchowdhury" /></a> </p>
 
-- 🔭 I’m currently working on **Computational Storage Drive (SMART SSD)**
+- 🔭 I’m currently working on **Breast Cancer Segmentation and Classification on Breast Ultrasound Image using Deep Learning**
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, Deep Learning, NLP & Embedded IoT**
 
