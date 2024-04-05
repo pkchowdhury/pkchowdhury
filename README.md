@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallab Chowdhury</h1>
-<h3 align="center">I am a lecturer and researcher in CSE department of Varendra University with a huge love for machine learning, deep learning, computer vision, NLP, embedded systems, the Internet of Things, and firmware development. Currently, I'm open to work and research opportunities.</h3>
+<!-- <h3 align="center">I am a lecturer and researcher in CSE department of Varendra University with a huge love for machine learning, deep learning, computer vision, NLP, embedded systems, the Internet of Things, and firmware development. Currently, I'm open to work and research opportunities.</h3> -->
 
 <img align="right" alt="Coding" width="400" src="https://dreamziot.com/wp-content/uploads/2018/07/ai-iot-home-1b.gif">
 
