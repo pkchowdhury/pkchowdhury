@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, Deep Learning, NLP & Embedded IoT**
 
-- 💬 Ask me about **Embedded Systems, IoT, Deep Learning, Machine Learning & NLP**
+- 💬 Ask me about **Deep Learning, Machine Learning, NLP, Embedded Systems & IoT**
 
 - 📫 How to reach me **chowdhurypall95@gmail.com**
 
