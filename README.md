@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_pkchowdhury" target="blank"><img src="https://img.shields.io/twitter/follow/_pkchowdhury?logo=twitter&style=for-the-badge" alt="_pkchowdhury" /></a> </p>
 
-- 🔭 I’m currently conducting my research on **Vision Trasnfomer Capabilities on Medical Imgage Segmentation**
+- 🔭 I’m currently conducting my research on **Vision Trasnfomer Capabilities on Medical Image Segmentation**
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, Deep Learning, NLP & Embedded IoT**
 
